@@ -16,22 +16,8 @@
       href="https://fonts.googleapis.com/css?family=Poppins:300,400,700|Roboto:300,400,700&display=swap"
       rel="stylesheet"
     />
-    <!-- Bootstrap CSS File -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-  
-
     <!-- Vendor CSS Files -->
     <link href="icofont/icofont/icofont.css" rel="stylesheet" />
-    <link
-      href="vendor/line-awesome/css/line-awesome.min.css"
-      rel="stylesheet"
-    />
-    <link href="vendor/aos/aos.css" rel="stylesheet" />
-    <link
-      href="vendor/owlcarousel/assets/owl.carousel.min.css"
-      rel="stylesheet"
-    />
-
     <!-- Template Main CSS File -->
     <link href="css/app.css" rel="stylesheet" />
   </head>
@@ -648,13 +634,7 @@
 
     <!-- Main JS -->
     <script type="text/javascript" src="js/app.js"></script>
-
     <script type="text/javascript" src="js/serialize.js"></script>
 
-    <!-- Vendor JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.sticky/1.0.4/jquery.sticky.js"></script>
-    <script src="vendor/aos/aos.js"></script>
-    <script src="node_modules/smooth-scroll/src/js/smooth-scroll/smooth-scroll.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15/dist/smooth-scroll.polyfills.min.js"></script>
   </body>
 </html>

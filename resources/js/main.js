@@ -3,6 +3,7 @@ try {
 	require('jquery.easing'); // dat works :3
 	require('owl.carousel');
 	require('aos');
+	require('jquery-sticky');
 } catch (e) {}
 
 window.Sticky = require('../../node_modules/jquery-sticky/jquery.sticky.js');
