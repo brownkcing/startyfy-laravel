@@ -1,6 +1,6 @@
 try {
     window.jQuery = window.$ = require('jquery');
-	require('jquery.easing');
+	require('js-easing-functions');
 	require('owl.carousel');
 	require('aos');
 	require('jquery-sticky');
