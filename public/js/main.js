@@ -1,12 +1,11 @@
 try {
     window.jQuery = window.$ = require('jquery');
-	require('jquery.easing'); // dat works :3
+	require('jquery.easing');
 	require('owl.carousel');
 	require('aos');
 	require('jquery-sticky');
 } catch (e) {}
 
-window.Sticky = require('../../node_modules/jquery-sticky/jquery.sticky.js');
 import AOS from 'aos';
 
 (function ($) {
