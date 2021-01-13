@@ -2,5 +2,8 @@
     "/js/app.js": "/js/app.js",
     "/css/app.css": "/css/app.css",
     "/resources/sass/_styles.scss": "/resources/sass/_styles.scss",
-    "/js/main.js": "/js/main.js"
+    "/resources/sass/_success.scss": "/resources/sass/_success.scss",
+    "/resources/sass/_aos.scss": "/resources/sass/_aos.scss",
+    "/js/main.js": "/js/main.js",
+    "/js/serialize.js": "/js/serialize.js"
 }
