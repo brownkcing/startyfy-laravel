@@ -17,6 +17,7 @@
       rel="stylesheet"
     />
     <!-- Vendor CSS Files -->
+    <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
     <link href="icofont/icofont/icofont.css" rel="stylesheet" />
     <!-- Template Main CSS File -->
     <link href="css/app.css" rel="stylesheet" />
@@ -458,13 +459,14 @@
 
             <div class="col-md-6 mb-5 mb-md-0" data-aos="fade-up">
               <form
-              action="/success/success.html"
+              action="https://send.pageclip.co/PtYJ4TiohdpkAkxVXc4CfSLrx8RE40lT"
                 name="contact-form"
                 id="contactform"
                 method="POST"
                 role="form"
                 data-netlify="true"
                 enctype="multipart/form-data"
+                class="pageclip-form"
               >
                 <div class="row">
                   <div class="col-md-6 form-group">
@@ -529,7 +531,7 @@
                     <button
                       type="submit"
                       id="form-submit"
-                      class="btn btn-success btn-lg pull-right"
+                      class="btn btn-success btn-lg pull-right pageclip-form__submit" 
                       >
                       Submit
                     </button>    
@@ -634,6 +636,7 @@
 
     <!-- Main JS -->
     <script type="text/javascript" src="js/app.js"></script>
+    <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/serialize.js"></script>
 
   </body>
