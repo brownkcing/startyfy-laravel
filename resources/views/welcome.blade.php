@@ -364,7 +364,7 @@
                 </ul>
                 <div class="price-cta">
                   <strong class="price">$399</strong>
-                  <p><a href="#" class="btn btn-white">Choose Plan</a></p>
+                  <p><a href="{{url('registration')}}" class="btn btn-white">Choose Plan</a></p>
                 </div>
               </div>
             </div>
@@ -386,7 +386,7 @@
                 </ul>
                 <div class="price-cta">
                   <strong class="price">$699</strong>
-                  <p><a href="#" class="btn btn-white">Choose Plan</a></p>
+                  <p><a href="{{url('registration')}}" class="btn btn-white">Choose Plan</a></p>
                 </div>
               </div>
             </div>
@@ -408,7 +408,7 @@
                 </ul>
                 <div class="price-cta">
                   <strong class="price">$1299</strong>
-                  <p><a href="#" class="btn btn-white">Choose Plan</a></p>
+                  <p><a href="{{url('registration')}}" class="btn btn-white">Choose Plan</a></p>
                 </div>
               </div>
             </div>
@@ -556,7 +556,7 @@
               <h2>What are you waiting for? Let's kickstart your kickstart!</h2>
             </div>
             <div class="col-md-4 align-self-center text-center text-md-right">
-              <p><a href="#" class="btn">Sign-up</a></p>
+              <p><a href="{{url('registration')}}" class="btn">Sign-up</a></p>
             </div>
           </div>
         </div>
@@ -604,12 +604,12 @@
                 <h3>Connect With Us</h3>
                 <ul class="list-unstyled social">
                   <li>
-                    <a href="#"><span class="icofont icofont-twitter"></span></a>
-                    <a href="#"><span class="icofont icofont-facebook"></span></a>
+                    <a href="twitter.com"><span class="icofont icofont-twitter"></span></a>
+                    <a href="facebook.com"><span class="icofont icofont-facebook"></span></a>
                   </li>
                   <li>
-                    <a href="#"><span class="icofont icofont-dribbble"></span></a>
-                    <a href="#"><span class="icofont icofont-behance"></span></a>
+                    <a href="dribble.com"><span class="icofont icofont-dribbble"></span></a>
+                    <a href="behance.com"><span class="icofont icofont-behance"></span></a>
                   </li>
                 </ul>
               </div>

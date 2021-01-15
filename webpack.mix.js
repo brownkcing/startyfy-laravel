@@ -11,7 +11,7 @@ const mix = require('laravel-mix');
  |
  */
 mix.copy('resources/css/styles.css', 'resources/sass/_styles.scss')
-    .copy('resources/css/styles2.css', 'public/css/styles2')
+    .copy('resources/css/styles2.css', 'public/css/styles2.css')
     .copy('resources/css/success.css', 'resources/sass/_success.scss')
     .copy('resources/css/aos.css', 'resources/sass/_aos.scss')
     .copy('node_modules/@icon', 'public/icofont' )

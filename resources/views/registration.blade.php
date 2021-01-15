@@ -15,7 +15,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-    <link rel="stylesheet" type="text/css" href="{{url('styles2.css')}}">
+    <link href="css/styles2.css" rel="stylesheet" />
     
 </head>
 <body>
@@ -57,6 +57,7 @@
 		    <p class="small text-center">By clicking the Sign Up button, you agree to our <br><a href="#">Terms &amp; Conditions</a>, and <a href="#">Privacy Policy</a>.</p>
         </form>
 	    <div class="text-center">Already have an account? <a href="{{url('login')}}">Login here</a>.</div>
+        <div class="text-center">Change your mind? Go back to <a href="{{url('welcome')}}">Previous Page</a>.</div>
     </div>
 </body>
 </html>
