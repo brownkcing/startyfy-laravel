@@ -604,12 +604,12 @@
                 <h3>Connect With Us</h3>
                 <ul class="list-unstyled social">
                   <li>
-                    <a href="twitter.com"><span class="icofont icofont-twitter"></span></a>
-                    <a href="facebook.com"><span class="icofont icofont-facebook"></span></a>
+                    <a href="www.twitter.com"><span class="icofont icofont-twitter"></span></a>
+                    <a href="www.facebook.com"><span class="icofont icofont-facebook"></span></a>
                   </li>
                   <li>
-                    <a href="dribble.com"><span class="icofont icofont-dribbble"></span></a>
-                    <a href="behance.com"><span class="icofont icofont-behance"></span></a>
+                    <a href="www.dribble.com"><span class="icofont icofont-dribbble"></span></a>
+                    <a href="www.behance.com"><span class="icofont icofont-behance"></span></a>
                   </li>
                 </ul>
               </div>
