@@ -48,7 +48,7 @@
             <p class="small text-center">By clicking the Sign Up button, you agree to our <br><a href="#">Terms &amp; Conditions</a>, and <a href="#">Privacy Policy</a>.</p>
         </form>
         <div class="text-center">Don't have an account? <a href="{{url('registration')}}">Sign Up here</a>.</div>
-        <div class="text-center">Change your mind? Go back to <a href="{{url('welcome')}}">Previous Page</a>.</div>
+        <div class="text-center">Change your mind? Go back to <a href="{{url('/')}}">Previous Page</a>.</div>
     </div>
 </body>
 </html>
